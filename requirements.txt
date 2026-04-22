@@ -1,0 +1,6 @@
+tensorflow>=2.21.0
+kagglehub
+numpy>=1.26.2
+matplotlib>=3.8.3
+seaborn>=0.13.2
+scikit-learn>=1.7.2
