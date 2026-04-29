@@ -1,2 +1,8 @@
 best_baseline_cnn.keras
 ./best_baseline_cnn.keras
+best_modified_cnn.keras
+best_transfer_cnn.keras
+repro_*.keras
+.venv/
+__pycache__/
+.ipynb_checkpoints/
